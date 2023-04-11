@@ -40,4 +40,4 @@ My dashboards also feature an interactive year filter that allows users to selec
 I welcome corrections and feedback to improve the accuracy and quality of the methane emissions analysis. Please create an issue in the repository to report any corrections or provide feedback. Your input is valuable and will be taken into consideration for future updates to the dashboards.
 
 ## Corrections and Feedback
-If you have any questions or suggestions about the dashboard, please feel free to contact me at [omitolaabdulbasit@gmail.com](mailto:omitolaabdulbasit@gmail.com). I would be happy to hear from you and help in any way possible!
+If you have any questions or suggestions about the dashboard, please feel free to contact me at [omitolaabdulbasit@gmail.com](mailto:omitolaabdulbasit@gmail.com). I would be happy to hear from you and help in any way possible!.
